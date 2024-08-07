@@ -19,6 +19,8 @@ master_doc = "contents"
 
 extensions = [
     'myst_parser',
+    
+    'sphinx_design',
 ]
 
 
@@ -40,9 +42,6 @@ html_static_path = ['_static']
 #Sidebar title
 html_title = "Main page"
 #Banner top
-html_theme_options = {
-    "announcement": "<h2> CV & Project Gallery</h2>  <h3> Leobardo Oscar Alcántara Ocaña</h3> ",
-}
 
 #From Pufflib project
 
@@ -54,6 +53,7 @@ muted = '#005050'
 
 
 html_theme_options = {
+    "announcement": "<h6> L.O.A.O.  CV and gallery projects </h6>",
     "light_css_variables": {
         "color-foreground-primary": "black",
         "color-foreground-secondary": muted,

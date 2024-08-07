@@ -1,8 +1,24 @@
 # Basic Information
 
+<!-- ![ Image title ](img/LOAO_CV_profile_small.png) -->
 
-![ Image title ](img/LOAO_CV_profile_small.png)
- 
+```{image} img/LOAO_CV_profile_small.png
+:alt: Profile
+:class: bg-primary
+:width: 200px
+:align: left
+```
+
+##### **Name**
+Leobardo Oscar Alcántara Ocaña
+
+I was born on July 6th, 1972 in México City, CDMX (former D.F.). 
+
+</br>
+</br>
+</br>
+</br>
+
 <!-- Add warning 
  
  ```{warning} 
@@ -31,29 +47,58 @@ otherwise create a file where to add the directive
 
  
  ``` 
+
 -->
 
-### **Name**
-Leobardo Oscar Alcántara Ocaña
 
-I was born on July 6th, 1972 in México City, CDMX (former D.F.). 
 
+
+
+```{eval-rst} 
+ 
+.. dropdown:: CONTACT
+
+  .. tab-set::
+
+    .. tab-item:: e-mail
+
+      **leobardooscar@gmail.com**
+      
+      **leobardo@iteso.mx**
+
+    .. tab-item:: Social Networks
+
+      X (former Twitter).
+
+      .. code-block:: 
+
+        https://x.com/joshua_w_d
+
+      Github
+
+      .. code-block:: 
+
+        https://github.com/leobardooscar/
+ 
+ ``` 
+
+<!-- 
 ###  **Contact**
 **leobardooscar@gmail.com**
 <br />
 **leobardo@iteso.mx**
 
 <br />
-
+-->
 ---
 
-### &#10132; **Academic degrees**
+#### &#10132; **Academic degrees**
 + **1996**	B.A. in Communication Sciences - ITESO University, Guadalajara México.
 + **2012**	M.A. in Communication of Science & Culture - ITESO University, Guadalajara México.
 
 ---
 
-### &#10132; **Work experience**
+#### &#10132; **Work experience**
 + **1999 – 2020** Web Designer & Web Content Manager. “Dr. Jorge Villalobos Padilla” Library. ITESO University. 97 – 2003 University's Web Portal Content Manager. ITESO University. 
 + **99 – 2001; 2011** Reference librarian. ITESO University.
 + **2007 – 2008** Reference librarian. "Cultural Centre Library". Supreme Court of Justice of the Nation (SCJN), Mexico.
