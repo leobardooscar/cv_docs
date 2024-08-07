@@ -21,6 +21,10 @@ extensions = [
     'myst_parser',
 ]
 
+extensions = [
+    'sphinx_toolbox.collapse',
+    ]
+
 templates_path = ['_templates']
 exclude_patterns = []
 
