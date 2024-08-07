@@ -1,8 +1,8 @@
 #Ignore virtual environment
-doc/bin
-doc/build
-doc/include
-doc/lib
+docs/bin
+docs/build
+docs/include
+docs/lib
 Makefile
 make.bat
 pyenv.cfg
