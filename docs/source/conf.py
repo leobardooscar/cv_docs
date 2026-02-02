@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'CV & P. gallery'
-copyright = '2026, Leobardo &Oacute;scar Alc&oacute;ntara Oca&ntilde;a'
+copyright = '2026, Leobardo Oscar Alcantara Ocana'
 author = 'Leobardo Oscar Alcantara Ocana'
 release = 'August 2024'
 
@@ -52,7 +52,7 @@ muted = '#005050'
 
 
 html_theme_options = {
-    "announcement": "<h6> L.O.A.O.  CV and gallery projects </h6>",
+    "announcement": "<h6> L.O.A.O. CV and gallery projects </h6>",
     "light_css_variables": {
         "color-foreground-primary": "black",
         "color-foreground-secondary": muted,
