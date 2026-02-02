@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'CV & P. gallery'
-copyright = '2025, Leobardo Oscar Alcantara Ocana'
+copyright = '2024, Leobardo Oscar Alcantara Ocana'
 author = 'Leobardo Oscar Alcantara Ocana'
 release = 'August 2024'
 
