@@ -12,9 +12,9 @@
 ##### **Name**
 Leobardo Óscar Alcántara Ocaña 
 
-I was born on July 6th, 1972 in México City, CDMX (former D.F. "Where the air is clear"...). 
-
+I was born on July 6th, 1972 in México City, CDMX (former D.F.). 
 </br>
+"Where the air is clear"
 </br>
 </br>
 </br>
