@@ -2,7 +2,7 @@
 
 ## &#10132; Cinema
 
-+ [Usr. profile on MUBI: 1,340 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")
++ **[Usr. profile on MUBI: 1,340 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")**
 
 **My favorite movies:**
 
@@ -24,7 +24,8 @@
 --- 
 
 ## &#10132; Lexicography
-### English Spanish Dictionary
+
+**English Spanish Dictionary**
 
 + Description:
 
@@ -35,19 +36,20 @@ I'm just an enthuisiast of lexicography.
 Work in progress :-)
 
 + Link:
-[[&#10075;  Lexonomy English - Spanish Dictionary &#10076;](https://www.lexonomy.eu/#english_spanish "Home page")] 
+**[[&#10075;  Lexonomy English - Spanish Dictionary &#10076;](https://www.lexonomy.eu/#english_spanish "Home page")]** 
 
 + Tools I recommend: 
 
-    + [Skell - Sketch Engine for language learning](https://skell.sketchengine.eu "Corpus")
+      + [Skell - Sketch Engine for language learning](https://skell.sketchengine.eu "Corpus")
 
-    + [Word Hippo](https://www.wordhippo.com/ "Synonyms, ")
+   	  + [Word Hippo](https://www.wordhippo.com/ "Synonyms, ")
 
 --- 
 
-## &#10132; Nephologist 
+## &#10132; Nephologist
 
- + Cloud observation & appreciation:
++ Cloud observation & appreciation:
+ 
 
     + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
 
