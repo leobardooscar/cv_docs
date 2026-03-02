@@ -49,9 +49,9 @@ Work in progress :-)
 
  + Cloud observation & appreciation:
 
- 	   + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
-    
-  	 + [Clouds spotted in Guadalajara Jalisco Mexico: Collection Builder](https://leobardooscar.github.io/clouds "Collection Builder") 
+    + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
+
+    + [Clouds spotted in Guadalajara Jalisco Mexico: Collection Builder](https://leobardooscar.github.io/clouds "Collection Builder") 
 		
 
 ---
@@ -87,6 +87,8 @@ I'm a dog person
  |             ||'' ||                        
  |_____________|| |_|L                     hjm
 
+  JAZZ  (2015-2023)
+  KIRBY (2023-)
 </pre>
 
 
