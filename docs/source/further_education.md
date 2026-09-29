@@ -29,10 +29,10 @@
 + **2010** - Social controllership: Citizen's right to Accountability. ITESO University.
 
 ####   **Seminars & Workshops** &#10002;
-+ **2026** - Media & Information Literacy. Online Workshop. The Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara Jalisco, México. 
-
-+ **2026** The Right: Traditions and Contemporary Changes. Seminar. El Colegio de Jalisco. Guadalajara, México. 
-
++ **2026** 
+    - Media & Information Literacy for the Democracy. Online Workshop. The Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara Jalisco, México.
+    - The Right: Traditions and Contemporary Changes. Seminar. El Colegio de Jalisco. Guadalajara, México.
+    
 + **2024** - Webinar on Social Networks & Public Sector. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco  (ITEI; Chihuahua Institute for Transparency and Access to Public Information (ICHITAIP). 
 
 + **2022** - Seminar on Democracy, Governance & Civil Society. El Colegio de Jalisco. Guadalajara, México. 

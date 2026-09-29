@@ -2,7 +2,7 @@
 
 ## &#10132; Cinema
 
-+ **[Usr. profile on MUBI: 1,340 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")**
++ **[Usr. profile on MUBI: 1,400 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")**
 
 **My favorite movies:**
 
@@ -11,9 +11,9 @@
     + Blade Runner. Ridley Scott (1982).
 
 
-| En décembre 1999, MK2 Productions absorbe *Les Films du Carrosse*. |  The Ladd Company released Blade Runner in 1982.|    
+| The Ladd Company released Blade Runner in 1982.  | En décembre 1999, MK2 Productions absorbe *Les Films du Carrosse*. |    
 | ----------- | ----------- |
-|<figure markdown="span"> ![MK2 Films](img/mk2_films.png)  <figcaption> Marin Karmitz</figcaption></figure> | <figure markdown="span">![The Ladd Company](img/The_Ladd_Company_logo.png) <figcaption> </figcaption> Founded in October of 1979 by a team of former Fox executives</figure>   |
+| <figure markdown="span">![The Ladd Company](img/The_Ladd_Company_logo.png) <figcaption> </figcaption> Founded in October of 1979 by a team of former Fox executives</figure>    |<figure markdown="span"> ![MK2 Films](img/mk2_films.png)  <figcaption> Marin Karmitz</figcaption></figure> | 
     
 + **A must-read reference in the world of film criticism:**
 
@@ -91,6 +91,9 @@ I'm a dog person
 
   JAZZ  (2015-2023)
   KIRBY (2023-)
+
+ Stray dogs rescued.
+
 </pre>
 
 
