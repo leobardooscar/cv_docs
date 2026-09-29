@@ -90,9 +90,10 @@ I'm a dog person
  |_____________|| |_|L                     hjm
 
   JAZZ  (2015-2023)
-  KIRBY (2023-)
+  
+  KIRBY (2023-    )
 
- Stray dogs rescued.
+  Stray dogs rescued.
 
 </pre>
 
